@@ -1,0 +1,15 @@
+.test {
+    color: red;
+}
+
+#test {
+    color: green;
+}
+
+p {
+    color: blue !important;
+}
+
+p .test {
+    color: rgb(231, 47, 255);
+}
